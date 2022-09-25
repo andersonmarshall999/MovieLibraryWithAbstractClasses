@@ -1,8 +1,8 @@
 ﻿using System;
-using MovieLibrary.Services;
 using Microsoft.Extensions.DependencyInjection;
+using MovieLibraryWithAbstractClasses.Services;
 
-namespace MovieLibrary
+namespace MovieLibraryWithAbstractClasses
 {
     public class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace MovieLibrary.Services
+﻿namespace MovieLibraryWithAbstractClasses.Services
 {
     public interface IMainService
     {

@@ -1,13 +1,13 @@
 ﻿using System;
-using MovieLibrary.Services;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using MovieLibraryWithAbstractClasses.Services;
 
 /// <summary>
 ///     Used for registration of new interfaces
 /// </summary>
 
-namespace MovieLibrary
+namespace MovieLibraryWithAbstractClasses
 {
     internal class Startup
     {
